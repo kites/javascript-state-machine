@@ -1,0 +1,22 @@
+{
+  "name": "javascript-state-machine",
+  "version": "2.2.1",
+  "description": "Javascript State Machines for frontend flow",
+  "main": "state-machine.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kites/javascript-state-machine"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kites/javascript-state-machine/issues"
+  },
+  "homepage": "https://github.com/kites/javascript-state-machine"
+}
